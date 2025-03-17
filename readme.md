@@ -14,3 +14,8 @@ Buon lavoro!
 - Definiamo la variabile che contiene il valore del km desiderato dall'utente
 - Definiamo la variabile del prezzo del biglietto per kilometro
 - Definiamo la variabile del prezzo finale
+- Verifichiamo che il valore del cliente sia superiore a 65
+- Se il valore supera i 65 allora applichiamo lo sconto del 40%
+- Verifichiamo che il valore del cliente sia inferiore a 18
+- Se il valore supera i 65 allora applichiamo lo sconto del 20%
+- Altrimennti mostro il prezzo standard
