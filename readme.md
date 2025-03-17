@@ -9,3 +9,8 @@ Il programma dovrà chiedere all'utente il numero di chilometri che vuole percor
 Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
+
+- Definiamo la variabile che contiene il valore dell'età dell'utente
+- Definiamo la variabile che contiene il valore del km desiderato dall'utente
+- Definiamo la variabile del prezzo del biglietto per kilometro
+- Definiamo la variabile del prezzo finale
