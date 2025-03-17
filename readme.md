@@ -18,4 +18,4 @@ Buon lavoro!
 - Se il valore supera i 65 allora applichiamo lo sconto del 40%
 - Verifichiamo che il valore del cliente sia inferiore a 18
 - Se il valore supera i 65 allora applichiamo lo sconto del 20%
-- Altrimennti mostro il prezzo standard
+- Altrimennti mostro il prezzo standard.
